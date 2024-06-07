@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 llama-index
 openai
 pypdf
+=======
+llama-index
+openai
+pypdf
+>>>>>>> 4939e9f94299fe0a2b5887a5e7fd8ca5adfaee9c
 python-dotenv
